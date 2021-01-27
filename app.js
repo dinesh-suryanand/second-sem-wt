@@ -1,5 +1,0 @@
-alert("yoyo")
-
-function validation(){
-
-}

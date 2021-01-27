@@ -5,7 +5,12 @@
 }
 
 .box{
-    padding: 60px ;
+    padding: 40px ;
 }
 
+.center{
+  margin-left: auto;
+  margin-right: auto;
+  width: 50rem;
+}
 
